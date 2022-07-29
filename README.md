@@ -11,7 +11,7 @@
 * Confirmação para compartilhar cartão de visitas
 * Formatação automática do número de telefone
 
-### Alem de apresentar novas Tecnlogias como:
+### Alem de apresentar novas Tecnologias como:
 * [Room](https://developer.android.com/training/data-storage/room?hl=pt-br)
 * [Componentes da arquitetura do Android](https://developer.android.com/topic/libraries/architecture?hl=pt-br)
 * [Componentes do Material Design](https://material.io/components?platform=android)
